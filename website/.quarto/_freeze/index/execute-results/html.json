@@ -1,0 +1,12 @@
+{
+  "hash": "de09a22e6810a8b5befc1b42fee59b1c",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Varada's Homepage\njupyter:\n  jupytext:\n    text_representation:\n      extension: .qmd\n      format_name: quarto\n      format_version: '1.0'\n      jupytext_version: 1.16.4\n  kernelspec:\n    display_name: 'Python [conda env:jbook]'\n    language: python\n    name: conda-env-jbook-py\n---\n\n\n\n\n![](img/profile.png)\n\n\nWelcome to my webpage! I am Varada Kolhatkar ([IPA:](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \\[ʋəɾəda kɔːlɦəʈkər]). (If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes :innocent:!) I grew up in a traditional household in a city called [Pune](https://en.wikipedia.org/wiki/Pune) in India. My first language is [Marathi](https://en.wikipedia.org/wiki/Marathi_language).\n\nMy background is in computer science and I received my Ph.D. in computational linguistics from the [Department of Computer Science at the University of Toronto](https://www.cs.toronto.edu/compling/).\n\nMy heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for [the Master of Data Science program](https://ubc-mds.github.io/about/) at [the University of British Columbia](https://www.ubc.ca/). Since then, I've been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program . My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.\n\nIn the past, I have spent time as a researcher in industry as well as in academia in different cities around the world, including Duluth, Baltimore, Toronto, Ottawa, Stuttgart, and Hamburg.\n\n",
+    "supporting": [
+      "index_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

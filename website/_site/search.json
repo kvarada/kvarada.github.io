@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Varada’s Homepage",
+    "section": "",
+    "text": "Welcome to my webpage! I am Varada Kolhatkar (IPA: [ʋəɾəda kɔːlɦəʈkər]). (If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes :innocent:!) I grew up in a traditional household in a city called Pune in India. My first language is Marathi.\nMy background is in computer science and I received my Ph.D. in computational linguistics from the Department of Computer Science at the University of Toronto.\nMy heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for the Master of Data Science program at the University of British Columbia. Since then, I’ve been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program . My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.\nIn the past, I have spent time as a researcher in industry as well as in academia in different cities around the world, including Duluth, Baltimore, Toronto, Ottawa, Stuttgart, and Hamburg."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in touch",
+    "section": "",
+    "text": "If you have any questions, collaboration ideas, or just want to connect, feel free to reach out through the options below."
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Get in touch",
+    "section": "Let’s connect",
+    "text": "Let’s connect\n\n📧 Email me\n🔗 LinkedIn\nYouTube\nGitHub"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Get in touch",
+    "section": "Office",
+    "text": "Office\nICICS, Room 237, 2366 Main Mall, Vancouver, BC V6T 1Z4, Canada\n\n\nThank you for visiting!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Welcome to my teaching page!",
+    "section": "",
+    "text": "My teaching focuses on applied machine learning. In particular, I am interested in teaching topics in these areas to students with diverse backgrounds so that they can apply them in their own disciplines. To effectively serve this target audience, one of my goals has been making complex concepts more approachable and less intimidating without losing their depth or rigour.\nCheck out my @appliedmachinelearningubc YouTube channel, where I share introductory videos on applied machine learning."
+  },
+  {
+    "objectID": "teaching.html#courses-i-have-taught-at-ubc",
+    "href": "teaching.html#courses-i-have-taught-at-ubc",
+    "title": "Welcome to my teaching page!",
+    "section": "Courses I have taught at UBC",
+    "text": "Courses I have taught at UBC\n\nDSCI 575 Advanced Machine Learning (taught 6 times)\nDSCI 571: Machine Learning Models (taught 4 times)\nDSCI 563 Unsupervised Learning (taught 4 times)\nCPSC 330: Applied Machine Learning (taught 3 times)\nDSCI 573 Feature and Model Selection (taught 3 times)\nDSCI 572 Supervised Learning II (taught once)\nDSCI 591 MDS Capstone course (mentored 19 groups)"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Welcome to my teaching page!",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nI strive to cultivate a positive, constructive, and supportive environment for my students, colleagues, and myself–one that is fertile ground for effective learning, personal growth, and overall flourishing as human beings. To achieve this, I focus on two core areas: facilitating meaningful learning experiences and community and student well-being.\nOver the years, I have developed a structured five-stage process for students to effectively navigate the complex network of ideas inherent in the fields of data science and machine learning: ENGAGE with motivation and curiosity; GRASP concepts from various perspectives; PRACTICE to internalize the concepts; APPLY to use these concepts in new contexts; and ADAPT to adjust to evolving challenges. I support each of these stages with techniques from evidence-based teaching and learning literature."
+  },
+  {
+    "objectID": "teaching.html#connect-with-me",
+    "href": "teaching.html#connect-with-me",
+    "title": "Welcome to my teaching page!",
+    "section": "Connect With Me",
+    "text": "Connect With Me\nFeel free to reach out if you have questions or are interested in my courses!"
+  }
+]
