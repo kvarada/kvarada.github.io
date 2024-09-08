@@ -137,8 +137,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="lets-connect" class="level2">
 <h2 class="anchored" data-anchor-id="lets-connect">Let’s connect</h2>
 <ul>
-<li><a href="mailto:kvarada@cs.ubc.ca">:e-mail: Email me</a></li>
-<li><a href="https://www.linkedin.com/in/varada-kolhatkar-b2b4809/">:link: LinkedIn</a></li>
+<li><a href="mailto:kvarada@cs.ubc.ca">Email me</a></li>
+<li><a href="https://www.linkedin.com/in/varada-kolhatkar-b2b4809/">LinkedIn</a></li>
 <li><a href="https://www.youtube.com/channel/@appliedmachinelearningubc">YouTube</a></li>
 <li><a href="https://github.com/kvarada">GitHub</a></li>
 </ul>
@@ -246,7 +246,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/kvarada\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
