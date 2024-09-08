@@ -11,8 +11,6 @@ website:
         text: Home
       - href: teaching.qmd
         text: Teaching                      
-      - href: projects.qmd
-        text: Projects
       - href: contact.qmd
         text: Contact      
 format:
@@ -29,6 +27,6 @@ execute:
 
 publish:
   gh-pages:
-    name: "gh-pages"
+    name: "main"
     branch: main # Or "master" or whatever branch you use
     path: website

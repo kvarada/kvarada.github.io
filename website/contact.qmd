@@ -1,14 +1,13 @@
 ---
-title: Get in touch
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .qmd
-      format_name: quarto
-      format_version: '1.0'
-      jupytext_version: 1.16.4
-  kernelspec:
-    display_name: 'Python [conda env:jbook]'
-    language: python
-    name: conda-env-jbook-py
+title: "Get in touch"
 ---
+If you have any questions, collaboration ideas, or just want to connect, feel free to reach out through the options below.
+## Let’s connect
+- [:e-mail: Email me](mailto:kvarada@cs.ubc.ca)
+- [:link: LinkedIn](https://www.linkedin.com/in/varada-kolhatkar-b2b4809/)
+- [YouTube](https://www.youtube.com/channel/@appliedmachinelearningubc)
+- [GitHub](https://github.com/kvarada)
+## Office
+ICICS, Room 237, 2366 Main Mall, Vancouver, BC V6T 1Z4, Canada
+<iframe src=“https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.8118732864027!2d-123.2517422224971!3d49.26101157228717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672cbd037e16d%3A0x4863aaf177384ea9!2sICICS%20Computer%20Science%2C%202366%20Main%20Mall%2C%20Vancouver%2C%20BC%20V6T%201Z4!5e0!3m2!1sen!2sca!4v1725771797898!5m2!1sen!2sca” width=“600” height=“450" style=“border:0;” allowfullscreen=“” loading=“lazy” referrerpolicy=“no-referrer-when-downgrade”></iframe>
+Thank you for visiting!
