@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources:
+    - "*.html"
+
+website:
+  title: "Varada Kolhatkar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching                      
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact      
+format:
+  html:
+    theme: [zephyr]
+    toc: false
+    lightbox: true
+          
+editor:
+  render-on-save: true
+
+execute:
+  freeze: auto
+
+publish:
+  gh-pages:
+    name: "gh-pages"
+    branch: main # Or "master" or whatever branch you use
+    path: website

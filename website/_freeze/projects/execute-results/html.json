@@ -1,0 +1,12 @@
+{
+  "hash": "c808bcee390d9a9089ea299f391ea3b7",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\njupyter:\n  jupytext:\n    text_representation:\n      extension: .qmd\n      format_name: quarto\n      format_version: '1.0'\n      jupytext_version: 1.16.4\n  kernelspec:\n    display_name: 'Python [conda env:jbook]'\n    language: python\n    name: conda-env-jbook-py\n---\n\n",
+    "supporting": [
+      "projects_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

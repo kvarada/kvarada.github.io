@@ -1,0 +1,12 @@
+{
+  "hash": "3a3b7fd9aa304dd1e6e13d81627bfbd4",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Varada's Homepage\njupyter:\n  jupytext:\n    text_representation:\n      extension: .qmd\n      format_name: quarto\n      format_version: '1.0'\n      jupytext_version: 1.16.4\n  kernelspec:\n    display_name: 'Python [conda env:jbook]'\n    language: python\n    name: conda-env-jbook-py\n---\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
