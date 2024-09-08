@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "*.html"
+  output-dir: docs
 
 website:
   title: "Varada Kolhatkar"
@@ -25,8 +26,3 @@ editor:
 execute:
   freeze: auto
 
-publish:
-  gh-pages:
-    name: "main"
-    branch: main # Or "master" or whatever branch you use
-    path: website
