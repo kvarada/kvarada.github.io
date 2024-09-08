@@ -4,7 +4,9 @@ title: "Welcome to my teaching page"
 
 My teaching focuses on applied machine learning. In particular, I am interested in teaching topics in these areas to students with diverse backgrounds so that they can apply them in their own disciplines. To effectively serve this target audience, one of my goals has been making complex concepts more approachable and less intimidating without losing their depth or rigour.
 Check out my [@appliedmachinelearningubc YouTube channel](https://www.youtube.com/channel/UC40oUwJPrUmhsYdURk8OjqA), where I share introductory videos on applied machine learning.
+
 ## Courses I have taught at UBC
+
 - [DSCI 575 Advanced Machine Learning](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/README.html) (taught 6 times)
 - [DSCI 571: Machine Learning Models](https://ubc-mds.github.io/DSCI_571_sup-learn-1/README.html) (taught 4 times)
 - [DSCI 563 Unsupervised Learning](https://ubc-mds.github.io/DSCI_563_unsup-learn/README.html) (taught 4 times)
@@ -12,8 +14,10 @@ Check out my [@appliedmachinelearningubc YouTube channel](https://www.youtube.co
 - [DSCI 573 Feature and Model Selection](https://ubc-mds.github.io/DSCI_573_feat-model-select/README.html) (taught 3 times)
 - [DSCI 572 Supervised Learning II](https://ubc-mds.github.io/DSCI_572_sup-learn-2/README.html) (taught once)
 - DSCI 591 MDS Capstone course (mentored 19 groups)
+
 ## Teaching Philosophy
 I strive to cultivate a positive, constructive, and supportive environment for my students, colleagues, and myself--one that is fertile ground for effective learning, personal growth, and overall flourishing as human beings. To achieve this, I focus on two core areas: facilitating meaningful learning experiences and community and student well-being.
 Over the years, I have developed a structured five-stage process for students to effectively navigate the complex network of ideas inherent in the fields of data science and machine learning: ENGAGE with motivation and curiosity; GRASP concepts from various perspectives; PRACTICE to internalize the concepts; APPLY to use these concepts in new contexts; and ADAPT to adjust to evolving challenges. I support each of these stages with techniques from evidence-based teaching and learning literature.
+
 ## Connect With Me
 Feel free to [reach out](contact.html) if you have questions or are interested in my courses!
