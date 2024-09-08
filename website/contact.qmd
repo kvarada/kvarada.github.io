@@ -4,8 +4,8 @@ title: "Get in touch"
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out through the options below.
 
 ## Let's connect
-- [:e-mail: Email me](mailto:kvarada@cs.ubc.ca)
-- [:link: LinkedIn](https://www.linkedin.com/in/varada-kolhatkar-b2b4809/)
+- [Email me](mailto:kvarada@cs.ubc.ca)
+- [LinkedIn](https://www.linkedin.com/in/varada-kolhatkar-b2b4809/)
 - [YouTube](https://www.youtube.com/channel/@appliedmachinelearningubc)
 - [GitHub](https://github.com/kvarada)
 
