@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to Varada’s Homepage – Varada Kolhatkar</title>
+<title>My projects – Varada Kolhatkar</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,9 +39,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -91,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -119,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to Varada’s Homepage</h1>
+<h1 class="title">My projects</h1>
 </div>
 
 
@@ -136,16 +133,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><a href="img/profile.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/profile.jpeg" class="img-fluid"></a></p>
-</div><div class="column" style="font-size: 22px; margin-left:4%;">
-<p>I am Varada Kolhatkar ([ʋəɾəda kɔːlɦəʈkər]). I am an educator in computer science, specializing in applied machine learning and data science. My overarching goal is to improve education in these fields by making them more accessible and less intimidating.</p>
-</div>
-</div>
-<p><br> My background is in computer science and I received my Ph.D.&nbsp;in computational linguistics from the <a href="https://www.cs.toronto.edu/compling/">Department of Computer Science at the University of Toronto</a>. My heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for <a href="https://ubc-mds.github.io/about/">the Master of Data Science program</a> at <a href="https://www.ubc.ca/">the University of British Columbia</a>. Since then, I’ve been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program . My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.</p>
-<p>In the past, I have spent time as a researcher in industry as well as in academia in different cities around the world, including Duluth, Baltimore, Toronto, Ottawa, Stuttgart, and Hamburg.</p>
-<p>If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes! I grew up in a traditional household in a city called <a href="https://en.wikipedia.org/wiki/Pune">Pune</a> in India. My first language is <a href="https://en.wikipedia.org/wiki/Marathi_language">Marathi</a>.</p>
 
 
 
@@ -571,38 +558,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 
