@@ -16,8 +16,10 @@ website:
         text: Contact      
 format:
   html:
-    theme: [zephyr]
+    theme: [zephyr]    
     toc: false
+    includes:
+      in_header: styles.css    
     lightbox: true
           
 editor:
