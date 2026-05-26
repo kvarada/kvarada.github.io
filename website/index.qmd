@@ -1,22 +1,60 @@
 ---
-title: "Welcome to Varada's Homepage"
+title: "Varada Kolhatkar"
 ---
 
-:::: {.columns}
+::: {.hero}
+:::: {.columns .hero-grid}
 
-::: {.column width="40%"}
-![](img/profile.jpeg)
+::: {.column width="35%"}
+![](img/profile.jpeg){.profile-photo}
 :::
 
-::: {.column width="56%" style="font-size: 22px; margin-left:4%;"}
-I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]). I am an educator in computer science, specializing in applied machine learning and
-data science. My overarching goal is to improve education in these fields by making them more accessible and less intimidating.
+::: {.column width="65%"}
+### Assistant Professor of Teaching<br> Computer Science
+
+I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]), an educator in computer science specializing in applied machine learning and data science. My overarching goal is to make these fields more accessible, less intimidating, and still intellectually rigorous.
+
+::: {.quick-links}
+[Teaching](teaching.html){.btn .btn-primary}
+[Projects](projects.html){.btn .btn-outline-primary}
+[Contact](contact.html){.btn .btn-outline-secondary}
+:::
 :::
 ::::
+:::
 
-<br>
+::: {.section-band}
+## Recent Highlights
+
+::: {.highlight-list}
+<details class="highlight-item" open>
+<summary>2026</summary>
+- Recipient of a Computer Science Teaching Award. May 2026
+- [Awarded the Killam Teaching Prize](https://www.cs.ubc.ca/news/2026/04/varada-kolhatkar-awarded-killam-teaching-prize), recognizing excellence in teaching and contributions to student learning. April 2026
+- Presented model AI assignment on [Dimensionality Reduction Adventures with Animal Faces](https://docs.google.com/presentation/d/1pZ0IUt9se_e0pfrF305YzFAYjHT1bwUuvodRPNkRWQs/edit?usp=sharing) at [the Educational Advances in Artificial Intelligence Symposium](https://eaai-conf.github.io/year/eaai-26.html). January 2026
+- Supervised a directed study (CPSC 448) for two excellent undergraduate students, Irmak Bayir and Selin Uz who have built and deployed an advisor support tool using retrieval-augmented generation (RAG) on CS website data.
+</details>
+
+<details class="highlight-item">
+<summary>2025</summary>
+
+- Co-designed and delivered a [full-day hands-on machine learning workshop](https://kvarada.github.io/FoS-Intro-to-ML-2025/) for Science faculty and postdocs at UBC. June 2025
+
+</details>
+
+<details class="highlight-item">
+<summary>2024</summary>
+
+- [Featured by UBC Today](https://ubctoday.ubc.ca/stories/october-15-2024/blending-science-and-meditation-help-students-learn-calm-mind) for blending science and meditation to help students learn with a calm mind. September 2024
+
+</details>
+:::
+:::
+
+## About
+
 My background is in computer science and I received my Ph.D. in computational linguistics from the [Department of Computer Science at the University of Toronto](https://www.cs.toronto.edu/compling/).
-My heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for [the Master of Data Science program](https://ubc-mds.github.io/about/) at [the University of British Columbia](https://www.ubc.ca/). Since then, I’ve been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program . My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.
+My heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for [the Master of Data Science program](https://ubc-mds.github.io/about/) at [the University of British Columbia](https://www.ubc.ca/). Since then, I have been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program. My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.
 
 In the past, I have spent time as a researcher in industry as well as in academia in different cities around the world, including Duluth, Baltimore, Toronto, Ottawa, Stuttgart, and Hamburg.
 

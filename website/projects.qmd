@@ -1,3 +1,67 @@
 ---
-title: My projects
+title: "Projects"
 ---
+
+::: {.intro}
+This page collects resources and initiatives I have developed around machine learning literacy, data science education, and student well-being.
+:::
+
+## Machine Learning Literacy
+
+I care deeply about machine learning (ML) and artificial intelligence (AI) literacy, and I am passionate about empowering students, professionals, educators, and researchers from diverse fields to gain the ML skills they need to succeed in their work. Below are some of the resources I have developed over the years to support this goal.
+
+
+::: {.panel-tabset}
+
+## Open Educational Resources
+
+- [My videos related to applied machine learning](https://www.youtube.com/channel/UC40oUwJPrUmhsYdURk8OjqA): A collection of videos explaining key concepts in applied machine learning.
+- [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/): An introductory course designed as part of the [Key Capabilities in Data Science series](https://extendedlearning.ubc.ca/programs-credentials/key-capabilities-data-science-certificate). It provides a beginner-friendly foundation in machine learning concepts and applications.
+- [All my course materials](teaching.html): A compilation of teaching resources from my courses, including slides, notebooks, and exercises.
+
+
+## Workshop Materials
+
+- [FoS: Is Machine Learning Suitable for Your Projects?](https://kvarada.github.io/FoS-Intro-to-ML-2025/): A full-day introductory machine learning workshop designed for Faculty of Science faculty members and postdocs.
+- [Is Machine Learning Suitable for Your Projects?](https://kvarada.github.io/DSI-ML-workshop-2024/workshop.html): A full-day introductory machine learning workshop designed for participants with no programming background.
+- [CS Alumni Workshop: Is Machine Learning Suitable for Your Projects?](https://kvarada.github.io/Intro-to-ML-workshop-2024/workshop.html): A full-day introductory machine learning workshop aimed at participants with a background in programming and computer science.
+- [Introduction to Deep Learning](https://kvarada.github.io/Intro-to-deep-learning/workshop.html): A concise 90-minute workshop offering an accessible introduction to deep learning.
+
+
+## Relevant Talks
+- [Making Machine Learning Approachable in Data Science Education](https://docs.google.com/presentation/d/1De7PJWe5Q7pXyhVg9ZmZicBoBgx1BFxpqKl1CeWotdU/edit?pli=1): A talk on strategies for making machine learning more accessible and less intimidating in educational settings.
+
+:::
+
+## Mental Well-Being
+
+My meditation practice began through courses offered by [Vipassana Meditation](https://www.dhamma.org/en/index). This background informs the optional weekly meditation sessions I lead for the MDS community.
+
+In our [Master of Data Science (MDS) program](https://ubc-mds.github.io/descriptions/), students complete 24 short, intensive courses over just eight months. They enter the program with modest prerequisites, a background in programming, statistics and probability, and either calculus or linear algebra. By the end, they are equipped to build reproducible data science pipelines to tackle real-world, complex problems. You can explore some of their work [here](https://ubc-mds.github.io/capstone/past_projects/).
+
+This transformation is incredible and makes us very proud, but it also speaks to how intense and demanding the program can be, both for students and instructors. Everyone brings their own personal and professional challenges, and it is essential that we all have tools in our toolbox to navigate them with resilience and self-awareness. And that requires a healthy mind.
+
+With that in mind, I launched an initiative within the MDS community to cultivate a more supportive, grounded, and compassionate environment, one that fosters not just effective learning, but also personal growth and well-being. For over a year now, I have been leading optional weekly meditation sessions, open to all MDS students and faculty. These practices are woven into our daily routines, helping make mindfulness a regular part of our lives.
+
+My hope is that this initiative will help foster a culture of mindfulness and mental well-being throughout the university, starting with our own community. Ultimately, I envision an academic environment that nurtures not only intellectual development, but also emotional health and human flourishing.
+
+::: {.section-band}
+## Check These Out
+
+::: {.highlight-grid}
+::: {.highlight-card}
+
+### UBC Today Feature
+
+[Blending science and meditation to help students learn with a calm mind](https://ubctoday.ubc.ca/stories/october-15-2024/blending-science-and-meditation-help-students-learn-calm-mind)
+:::
+
+::: {.highlight-card}
+### Self-Recorded Guided Meditations
+
+- [20-minute meditation with gongs only](recordings/meditation_instructions.mp4)
+- [20-minute guided meditation with instructions and gongs](recordings/meditation_instructions.mp4)
+
+:::
+:::
+:::

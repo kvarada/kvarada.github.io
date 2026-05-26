@@ -11,15 +11,18 @@ website:
       - href: index.qmd
         text: Home
       - href: teaching.qmd
-        text: Teaching                      
+        text: Teaching
+      - href: teaching-statement.qmd
+        text: Statement
+      - href: projects.qmd
+        text: Projects
       - href: contact.qmd
-        text: Contact      
+        text: Contact
 format:
   html:
-    theme: [zephyr]    
+    theme: [zephyr]
     toc: false
-    includes:
-      in_header: styles.css    
+    css: styles.css
     lightbox: true
           
 editor:
@@ -27,4 +30,3 @@ editor:
 
 execute:
   freeze: auto
-
