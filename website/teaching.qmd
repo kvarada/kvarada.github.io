@@ -9,30 +9,6 @@ My teaching focuses on applied machine learning. In particular, I am interested 
 - Check out my [@appliedmachinelearningubc YouTube channel](https://www.youtube.com/channel/UC40oUwJPrUmhsYdURk8OjqA), where I share introductory videos on applied machine learning.
 :::
 
-::: {.section-band}
-## Current Focus
-
-::: {.highlight-grid}
-::: {.highlight-card}
-### Applied machine learning
-
-I design learning experiences that help students move from mathematical and computational ideas to practical modelling decisions.
-:::
-
-::: {.highlight-card}
-### Accessible rigor
-
-I aim to lower unnecessary barriers while preserving the depth, precision, and judgement that machine learning requires.
-:::
-
-::: {.highlight-card}
-### Program building
-
-As Co-Director of the MDS Vancouver program, I contribute to curriculum, student experience, and operational continuity.
-:::
-:::
-:::
-
 ## Courses I have taught at UBC
 
 ::: {.course-list}
@@ -54,9 +30,10 @@ As Co-Director of the MDS Vancouver program, I contribute to curriculum, student
 
 ## Learning Community
 
-A few moments from courses, workshops, and student project activities.
+A few moments from courses, workshops, and student project activities. (coming soon)
 
 ::: {.photo-grid}
+
 ![Students working together in class](img/students/class-activity-1.jpg)
 ![Students presenting project work](img/students/project-presentation-1.jpg)
 ![Students collaborating during a workshop](img/students/workshop-1.jpg)
