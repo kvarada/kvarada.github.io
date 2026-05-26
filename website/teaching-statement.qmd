@@ -1,0 +1,43 @@
+---
+title: "Teaching Statement"
+bibliography: references.bib
+---
+
+On the first day of my applied machine learning class, I ask a simple but provocative question: "Can we predict whether someone will be happy in their job?" Almost immediately, hands shoot up. Some students argue that salary is the deciding factor; others insist that supportive colleagues and an encouraging boss matter more. A few laugh and claim free coffee would tip the balance. One even wonders aloud whether having a vegan boss might influence happiness. This lighthearted debate opens the door to a serious conversation about supervised machine learning: how to define a prediction task, which features to include, how to encode them, how to evaluate and measure success, and what pitfalls to avoid.  
+
+Moments like this illustrate my teaching philosophy. I strive to cultivate a positive, constructive, playful, and supportive environment for my students, colleagues, and myself, one that is fertile ground for effective learning, personal growth, and overall flourishing. Over the years, I have developed a structured five-stage process to help students navigate the complex network of ideas in data science and machine learning.
+
+- ENGAGE with motivation and curiosity
+- GRASP concepts from various perspectives
+- PRACTICE to internalize the concepts
+- APPLY to use these concepts in new contexts 
+- ADAPT to adjust to evolving challenges 
+
+I support each of these stages with techniques from evidence-based teaching and learning literature [@barkley2018interactive; @hernandez2021analogies; @nguyen2021instructor]. Below, I will elaborate on each stage and provide concrete example strategies I employ for their effective execution.
+
+### ENGAGE 
+
+Motivation is central to effective learning: students engage more deeply when they see why a topic matters and how it connects to their goals or experiences [@ryan2000self; @deci1985intrinsic; @jang2008supporting; @hulleman2009promoting]. This is especially important in applied machine learning classrooms, where learners often come from non-technical or varied professional backgrounds. To foster motivation and engagement, I draw on evidence-based strategies such as posing hook questions with surprising results (e.g., [floating points quirks](https://ubc-mds.github.io/DSCI_572_sup-learn-2/lectures/01_floating-point-numbers.html#questions-for-you), [watch time on YouTube](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/notes/07_recommender-systems1.html#questions-for-you)) [@lang2021small]; using relatable examples (e.g., [the "perfect" spaghetti sauce](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/notes/01_K-Means.html#the-perfect-spaghetti-sauce)) [@ambrose2010learning]; connecting lessons to real-world applications [@prince2007many] (e.g., [the big five personality traits using PCA](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/002-regressors-Varada-lectures/03_class-demo.html#big-five-personality-traits)); and linking concepts to current events.
+
+### GRASP
+
+Once learners are motivated, I focus on helping them build deep, lasting understanding in the face of today’s information overload. To internalize key ideas, I use strategies that encourage active engagement. For example, before introducing an algorithm, I often start with a human-centered activity, such as asking students to manually cluster food items, to show that groupings can vary and that no single “perfect” solution exists. This opens discussion on evaluation, interpretation, and representation. 
+
+![](img/food_clustering_activity)
+
+When introducing computational methods, I draw on multimodal approaches: analogies (e.g., [Social engagement analogy for DBSCAN](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/notes/02_DBSCAN-hierarchical.html#how-does-it-work)), interactive activities (e.g., [language modeling activity](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/lectures/notes/01_Markov-models.html#examples-of-markov-chains), [RNN activity](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/lectures/notes/05_intro-to-RNNs.html#rnns-introduction)), visualizations and widgets (e.g., [gradient descent with one parameter](https://ubc-mds.github.io/DSCI_572_sup-learn-2/lectures/02_gradient-descent.html#gradient-descent-with-one-parameter)), coding examples that highlight challenges of scaling, and toy problems (e.g., [HMM toy example](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/lectures/03_HMMs-intro.html#hmm-definition-and-example)). I also integrate hand-written explanations, ethical considerations (e.g., [word embeddings](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/05_word-embeddings.html#implicit-biases-and-stereotypes-in-word-embeddings), [recommendation systems](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/07_recommender-systems1.html#why-should-we-care-about-recommendation-systems)), and share all code and calculations so students can experiment independently.
+
+### PRACTICE 
+
+"The doer alone learneth.”, said the German philosopher Friedrich Nietzsche. I believe true learning happens through active engagement [@prince2004does; @freeman2014active], a principle especially vital in hands-on fields like data science. To this end, I design my lessons and assignments to go beyond rote practice. In class, I use think-pair-share [@lyman1987think] exercises using iClicker Cloud technology (e.g., [iClicker questions on PCA](https://ubc-mds.github.io/DSCI_563_unsup-learn/lectures/notes/03_PCA-intro.html#questions-for-you)) to surface misconceptions and build collaborative problem-solving skills. My assignment begin with guided toy problems that students solve by hand before progressing to authentic, real-world datasets. This gradual scaffolding, from playful exploration to complex application, both deepens conceptual understanding and gives students tangible sense of accomplishment.  
+
+### APPLY 
+
+Once students have practiced a concept, the next stage is to own it by applying it to new contexts. In our Master of Data Science (MDS) program, this happens through [Capstone projects](https://ubc-mds.github.io/capstone/past_projects/), where learners tackle open-ended challenges with minimal instruction. These projects foster creativity, independence, and self-directed learning, while also strengthening teamwork, an essential skill in both industry and academia. 
+
+### ADAPT
+
+Teaching and learning go beyond high marks or positive evaluations. In the fast-changing field of data science, where skills can quickly become outdated, it is essential to cultivate resilience, adaptability, and lifelong learning. I model this by continually updating my courses with insights from experts and alumni (e.g., I have recently integrated materials on large language models (LLMs) into our MDS curriculum). I also work to foster these qualities within our community by running lunch-and-learn sessions that encourage knowledge sharing and adaptability. 
+
+Overall, I view teaching as more than transmitting knowledge; it is about **creating meaningful learning experiences that help students flourish as learners and as human beings**. In a world of constant distraction, I aim to show my students the intrinsic value of education beyond exams and jobs: to challenge themselves, discover their capabilities, and see the world with fresh perspective. My ultimate goal is to equip them not only with data science skills, but with the resilience, curiosity, and adaptability needed to thrive in an ever-changing world.
+

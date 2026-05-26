@@ -1,0 +1,12 @@
+{
+  "hash": "7e4a6e9200cdf7d4867be5d9128e81a0",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Get in touch\njupyter:\n  jupytext:\n    text_representation:\n      extension: .qmd\n      format_name: quarto\n      format_version: '1.0'\n      jupytext_version: 1.16.4\n  kernelspec:\n    display_name: 'Python [conda env:base] *'\n    language: python\n    name: conda-base-py\n---\n\n",
+    "supporting": [
+      "contact_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
