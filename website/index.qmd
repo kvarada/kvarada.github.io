@@ -12,7 +12,7 @@ title: "Varada Kolhatkar"
 ::: {.column width="65%"}
 ### Associate Professor of Teaching<br> Computer Science
 
-I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]), an educator in computer science specializing in applied machine learning and data science. My overarching goal is to make these fields more accessible, less intimidating, and still intellectually rigorous.
+I am Varada Kolhatkar (/ʋəɾəda kɔːlɦəʈkər/), an educator in computer science specializing in applied machine learning and data science. My goal is to make these fields more accessible and less intimidating, without compromising on rigour.
 
 ::: {.quick-links}
 [Teaching](teaching.html){.btn .btn-primary}
