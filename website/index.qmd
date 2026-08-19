@@ -29,7 +29,6 @@ I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]), an educator in computer
 ::: {.highlight-list}
 <details class="highlight-item" open>
 <summary>2026</summary>
-- Recipient of a Computer Science Teaching Award. May 2026
 - [Awarded the Killam Teaching Prize](https://www.cs.ubc.ca/news/2026/04/varada-kolhatkar-awarded-killam-teaching-prize), recognizing excellence in teaching and contributions to student learning. April 2026
 - Presented model AI assignment on [Dimensionality Reduction Adventures with Animal Faces](https://docs.google.com/presentation/d/1pZ0IUt9se_e0pfrF305YzFAYjHT1bwUuvodRPNkRWQs/edit?usp=sharing) at [the Educational Advances in Artificial Intelligence Symposium](https://eaai-conf.github.io/year/eaai-26.html). January 2026
 - Supervised a directed study (CPSC 448) for two excellent undergraduate students, Irmak Bayir and Selin Uz who have built and deployed an advisor support tool using retrieval-augmented generation (RAG) on CS website data.
