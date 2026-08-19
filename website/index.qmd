@@ -10,7 +10,7 @@ title: "Varada Kolhatkar"
 :::
 
 ::: {.column width="65%"}
-### Assistant Professor of Teaching<br> Computer Science
+### Associate Professor of Teaching<br> Computer Science
 
 I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]), an educator in computer science specializing in applied machine learning and data science. My overarching goal is to make these fields more accessible, less intimidating, and still intellectually rigorous.
 
@@ -53,7 +53,7 @@ I am Varada Kolhatkar (\[ʋəɾəda kɔːlɦəʈkər\]), an educator in computer
 ## About
 
 My background is in computer science and I received my Ph.D. in computational linguistics from the [Department of Computer Science at the University of Toronto](https://www.cs.toronto.edu/compling/).
-My heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for [the Master of Data Science program](https://ubc-mds.github.io/about/) at [the University of British Columbia](https://www.ubc.ca/). Since then, I have been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program. My current roles are Assistant Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.
+My heart is in teaching and learning and in the 2018-19 academic year, I was fortunate to have the opportunity to teach for [the Master of Data Science program](https://ubc-mds.github.io/about/) at [the University of British Columbia](https://www.ubc.ca/). Since then, I have been teaching courses in applied machine learning, artificial intelligence, and natural language processing in the Department of Computer Science and the Master of Data Science program. My current roles are Associate Professor of Teaching and Co-Director of the Master of Data Science Vancouver program. In simple terms, I strive to help students learn computer science and data science, while also working to ensure the smooth operation of our Master of Data Science program.
 
 In the past, I have spent time as a researcher in industry as well as in academia in different cities around the world, including Duluth, Baltimore, Toronto, Ottawa, Stuttgart, and Hamburg.
 
