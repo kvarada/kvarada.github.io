@@ -11,21 +11,93 @@ My teaching focuses on applied machine learning. In particular, I am interested 
 
 ## Courses I have taught at UBC
 
-::: {.course-list}
-- [DSCI 575 Advanced Machine Learning](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/README.html)<br>
-  Taught 8 times
-- [DSCI 571: Machine Learning Models](https://ubc-mds.github.io/DSCI_571_sup-learn-1/README.html)<br>
-  Taught 6 times
-- [DSCI 563 Unsupervised Learning](https://ubc-mds.github.io/DSCI_563_unsup-learn/README.html)<br>
-  Taught 6 times
-- [CPSC 330: Applied Machine Learning](https://ubc-cs.github.io/cpsc330-2023W1/README.html)<br>
-  Taught 5 times
-- [DSCI 573 Feature and Model Selection](https://ubc-mds.github.io/DSCI_573_feat-model-select/README.html)<br>
-  Taught 3 times
-- [DSCI 572 Supervised Learning II](https://ubc-mds.github.io/DSCI_572_sup-learn-2/README.html)<br>
-  Taught 3 times
-- DSCI 591 MDS Capstone course<br>
-  Mentored 25 groups
+::: {.course-grid}
+
+::: {.course-card}
+[CPSC 330](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpscv-330-applied-machine-learning){.course-code}
+
+### Applied Machine Learning {.unnumbered}
+
+[Taught 6 times]{.course-experience}
+
+::: {.course-resources}
+[Notes](https://ubc-cs.github.io/cpsc330-book/) · [Slides](https://kvarada.github.io/cpsc330-slides/lecture.html)  
+:::
+:::
+
+::: {.course-card}
+[DSCI 575]{.course-code}
+
+### Advanced Machine Learning {.unnumbered}
+
+[Taught 8 times]{.course-experience}
+
+::: {.course-resources}
+[Course website](https://ubc-mds.github.io/DSCI_575_adv-mach-learn/README.html) · [Slides forthcoming]{.course-resource-pending} · [Notes forthcoming]{.course-resource-pending}
+:::
+:::
+
+::: {.course-card}
+[DSCI 571]{.course-code}
+
+### [Supervised Learning I](https://vancouver.calendar.ubc.ca/course-descriptions/courses/dsciv-571-supervised-learning-i) {.unnumbered}
+
+[Taught 7 times]{.course-experience}
+
+::: {.course-resources}
+[Notes](https://ubc-mds.github.io/DSCI_571_sup-learn-1_book/) · [Slides](https://ubc-mds.github.io/DSCI_571-slides/lecture.html) 
+:::
+:::
+
+::: {.course-card}
+[DSCI 563]{.course-code}
+
+### Unsupervised Learning {.unnumbered}
+
+[Taught 6 times]{.course-experience}
+
+::: {.course-resources}
+[Course website](https://ubc-mds.github.io/DSCI_563_unsup-learn/README.html) · [Slides forthcoming]{.course-resource-pending} · [Notes forthcoming]{.course-resource-pending}
+:::
+:::
+
+
+::: {.course-card}
+[DSCI 573]{.course-code}
+
+### Feature and Model Selection {.unnumbered}
+
+[Taught 3 times]{.course-experience}
+
+::: {.course-resources}
+[Course website](https://ubc-mds.github.io/DSCI_573_feat-model-select/README.html) · [Slides forthcoming]{.course-resource-pending} · [Notes forthcoming]{.course-resource-pending}
+:::
+:::
+
+::: {.course-card}
+[DSCI 572]{.course-code}
+
+### Supervised Learning II {.unnumbered}
+
+[Taught 3 times]{.course-experience}
+
+::: {.course-resources}
+[Course website](https://github.com/UBC-MDS-2018-19/DSCI_572_sup-learn-2) · [Slides forthcoming]{.course-resource-pending} · [Notes forthcoming]{.course-resource-pending}
+:::
+:::
+
+::: {.course-card}
+[DSCI 591]{.course-code}
+
+### MDS Capstone course {.unnumbered}
+
+[Mentored 25 groups]{.course-experience}
+
+::: {.course-resources}
+[Check out some past MDS Capstone projects](https://ubc-mds.github.io/capstone/past_projects/)
+:::
+:::
+
 :::
 
 ## Learning Community
